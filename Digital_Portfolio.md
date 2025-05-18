@@ -1,13 +1,12 @@
 
-# 🌐 Digital Portfolio – Work Readiness Training
+# 🌐 Digital Portfolio 
 
 Welcome to my Digital Portfolio created as part of the Work Readiness Training. This portfolio highlights my career planning, skill development, and reflective growth using the **STAR Technique** (Situation, Task, Action, Result).
 
 ---
 
 ## 📌 Table of Contents
-
-- [Career Counselling](#career-counselling)
+- [Career Counselling](https://github.com/ammaar0x01/_temp/edit/main/Digital_Portfolio.md#L2C25-L2C48)
 - [Skills and Interests](#skills-and-interests)
 - [Personality Assessment](#personality-assessment)
 - [Create a CV](#create-a-cv)
@@ -18,9 +17,7 @@ Welcome to my Digital Portfolio created as part of the Work Readiness Training. 
 ## 🧭 Career Counselling
 
 ### 📁 Evidence
-- Participated in 3 one-on-one sessions with a certified career counsellor.
 - Completed a career roadmap exercise.
-- [Download Career Roadmap PDF](link-to-file)
 
 ### ✨ Reflection: STAR Technique
 **S**: I wanted clarity on which IT career path matched my strengths.  
@@ -33,9 +30,7 @@ Welcome to my Digital Portfolio created as part of the Work Readiness Training. 
 ## 🎯 Skills and Interests
 
 ### 📁 Evidence
-- Completed MySkills Inventory Test and Interest Profiler.
-- Participated in coding challenges and group discussions.
-- [Link to MySkills Report](link-to-report)
+- Link to my Portfolio website: <a href="https://ammaar0x01.netlify.app">Porfolio Website</a> 
 
 ### ✨ Reflection: STAR Technique
 **S**: I was uncertain about which technical and soft skills I possessed.  
@@ -63,8 +58,7 @@ Welcome to my Digital Portfolio created as part of the Work Readiness Training. 
 ## 📄 Create a CV
 
 ### 📁 Evidence
-- Drafted CV using Canva and Microsoft Word.
-- Aligned with job roles identified in career counselling.
+- Drafted CV using Adobe Express and Microsoft Word.
 - [Link to CV Draft](link-to-cv)
 
 ### ✨ Reflection: STAR Technique
@@ -78,8 +72,7 @@ Welcome to my Digital Portfolio created as part of the Work Readiness Training. 
 ## 📬 CV Submission
 
 ### 📁 Evidence
-- Final CV submitted through the university platform.
-- Saved in multiple formats (PDF, Word).
+- Saved in the form of a PDF.
 - [Link to Submission Screenshot](link-to-screenshot)
 
 ### ✨ Reflection: STAR Technique
@@ -92,5 +85,4 @@ Welcome to my Digital Portfolio created as part of the Work Readiness Training. 
 
 ## ✅ Submission Info
 
-**GitHub Repository Link**: [Insert your repo link here]  
-**Uploaded to Blackboard**: [Yes/No – depending on whether you've submitted yet]
+**GitHub Profile Link**: [Link to GitHub profile](https://github.com/ammaar0x01/)  
