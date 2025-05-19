@@ -1,8 +1,10 @@
 
-# 🌐 Digital Portfolio 
+# Digital Portfolio 
 
-Welcome to my Digital Portfolio created as part of the Work Readiness Training. This portfolio highlights my career planning, skill development, and reflective growth using the **STAR Technique** (Situation, Task, Action, Result).
-
+Welcome to my Digital Portfolio. 
+This portfolio highlights my career planning, skill development, and reflective growth using the **STAR Technique** (Situation, Task, Action, Result).
+- Name:      Ammaar 
+- Surname:   Swartland 
 ---
 
 ## 📌 Table of Contents
@@ -11,15 +13,15 @@ Welcome to my Digital Portfolio created as part of the Work Readiness Training. 
 - [Personality Assessment](#personality-assessment)
 - [Create a CV](#create-a-cv)
 - [CV Submission](#cv-submission)
-
 ---
 
-## 🧭 Career Counselling
+## Career Counselling
 
-### 📁 Evidence
+### Evidence
 - Completed a career roadmap exercise.
+- Screenshots from Blackboard
 
-### ✨ Reflection: STAR Technique
+### Reflection: STAR Technique
 **S**: I wanted clarity on which IT career path matched my strengths.  
 **T**: I scheduled career counselling sessions to identify suitable roles.  
 **A**: I completed various career assessments and discussed outcomes with the counsellor.  
@@ -27,12 +29,12 @@ Welcome to my Digital Portfolio created as part of the Work Readiness Training. 
 
 ---
 
-## 🎯 Skills and Interests
+## Skills and Interests
 
-### 📁 Evidence
+### Evidence
 - Link to my Portfolio website: <a href="https://ammaar0x01.netlify.app">Porfolio Website</a> 
 
-### ✨ Reflection: STAR Technique
+### Reflection: STAR Technique
 **S**: I was uncertain about which technical and soft skills I possessed.  
 **T**: I engaged in self-assessment and project work.  
 **A**: I listed and tracked skills used in various tasks.  
@@ -40,14 +42,15 @@ Welcome to my Digital Portfolio created as part of the Work Readiness Training. 
 
 ---
 
-## 🧠 Personality Assessment
+## Personality Assessment
 
-### 📁 Evidence
+### Evidence
 - Completed MBTI and DISC assessments.
 - Participated in a personality type workshop.
 - [Link to Personality Profile Summary](link-to-summary)
+- Link to assessment:
 
-### ✨ Reflection: STAR Technique
+### Reflection: STAR Technique
 **S**: I wanted to understand how my personality impacts teamwork.  
 **T**: I completed personality assessments and group activities.  
 **A**: I analyzed results and sought peer feedback.  
@@ -55,13 +58,13 @@ Welcome to my Digital Portfolio created as part of the Work Readiness Training. 
 
 ---
 
-## 📄 Create a CV
+## Create a CV
 
-### 📁 Evidence
+### Evidence
 - Drafted CV using Adobe Express and Microsoft Word.
-- [Link to CV Draft](link-to-cv)
+- [Link to CV Draft](cv-2025-feb.pdf)
 
-### ✨ Reflection: STAR Technique
+### Reflection: STAR Technique
 **S**: I needed a CV that represented my new goals.  
 **T**: I revised my CV to focus on project management and IT support.  
 **A**: I used feedback from peers and mentors to improve layout and content.  
@@ -69,13 +72,13 @@ Welcome to my Digital Portfolio created as part of the Work Readiness Training. 
 
 ---
 
-## 📬 CV Submission
+## CV Submission
 
-### 📁 Evidence
+### Evidence
 - Saved in the form of a PDF.
-- [Link to Submission Screenshot](link-to-screenshot)
+- [Link to CV](cv-2025-feb.pdf)
 
-### ✨ Reflection: STAR Technique
+### Reflection: STAR Technique
 **S**: I wanted to ensure my CV met professional standards.  
 **T**: I reviewed the final version and submitted before the deadline.  
 **A**: Double-checked formatting, grammar, and alignment with job roles.  
@@ -83,6 +86,6 @@ Welcome to my Digital Portfolio created as part of the Work Readiness Training. 
 
 ---
 
-## ✅ Submission Info
+## Submission Info
 
 **GitHub Profile Link**: [Link to GitHub profile](https://github.com/ammaar0x01/)  
