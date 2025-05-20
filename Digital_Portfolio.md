@@ -61,6 +61,7 @@ This portfolio highlights my career planning, skill development, and reflective 
 ### Evidence
 ![](./cv.png)
 - Drafted CV using Adobe Express and Microsoft Word.
+- CV review: https://github.com/wil-it2025/cv-tutorial-ammaar0x01
 
 ### Reflection: STAR Technique
 **S**: I needed a CV that represented my new goals.  
